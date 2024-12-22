@@ -1,4 +1,4 @@
-# 李笑来作品集
+# 徐子叶作品集
 
 —— 人生的尴尬在于，之前决策的时候不可能拥有之后那么丰富的经验……
 
@@ -33,6 +33,7 @@
 > * [微信互联网平民创业](https://github.com/xiaolai/everyones-guide-for-starting-up-on-wechat-network)
 > * [1000 小时](https://1000h.org)
 > * [美式英语语音教程](https://1000h.org/sounds-of-american-english/0-intro.html)
+> * [认知箴言]()****
 
 ## 非开源社群课程
 
