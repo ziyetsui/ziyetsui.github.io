@@ -33,7 +33,7 @@
 > * [微信互联网平民创业](https://github.com/xiaolai/everyones-guide-for-starting-up-on-wechat-network)
 > * [1000 小时](https://1000h.org)
 > * [美式英语语音教程](https://1000h.org/sounds-of-american-english/0-intro.html)
-> * [认知箴言](https://github.com/ziyetsui/ziyetsui.github.io/tree/master/renzhi)****
+> * [认知箴言](https://github.com/ziyetsui/ziyetsui.github.io/tree/master/renzhi)
 
 ## 非开源社群课程
 
